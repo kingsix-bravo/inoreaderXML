@@ -175,7 +175,6 @@
       <outline text="Nature Communications - current - nature.com science feeds" title="Nature Communications - current - nature.com science feeds" type="rss" xmlUrl="http://feeds.nature.com/ncomms/rss/current" htmlUrl="http://www.nature.com/ncomms/rss/current"/>
       <outline text="ScienceAlert - Latest" title="ScienceAlert - Latest" type="rss" xmlUrl="http://feeds.feedburner.com/sciencealert-latestnews" htmlUrl="http://www.sciencealert.com/"/>
       <outline text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" type="rss" xmlUrl="http://www.sciencedaily.com/newsfeed.xml" htmlUrl="http://www.sciencedaily.com/"/>
-      <outline text="Popular Science" title="Popular Science" type="rss" xmlUrl="http://www.popsci.com/rss.xml" htmlUrl="http://www.popsci.com/rss.xml"/>
       <outline text="Science: Current Issue" title="Science: Current Issue" type="rss" xmlUrl="http://www.sciencemag.org/rss/current.xml" htmlUrl="http://www.sciencemag.org/"/>
       <outline text="大栗博司のブログ" title="大栗博司のブログ" type="rss" xmlUrl="http://planck.exblog.jp/index.xml" htmlUrl="http://planck.exblog.jp/"/>
     </outline>
