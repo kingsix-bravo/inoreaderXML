@@ -39,5 +39,78 @@
       <outline text="WikiLeaks | The Guardian" title="WikiLeaks | The Guardian" type="rss" xmlUrl="http://www.guardian.co.uk/media/wikileaks/rss" htmlUrl="http://www.theguardian.com/media/wikileaks"/>
       <outline text="Quartz » Ideas" title="Quartz » Ideas" type="rss" xmlUrl="http://qz.com/re/ideas/feed/" htmlUrl="http://qz.com/"/>
     </outline>
-     </body>
+     <outline text="aborininal" title="aborininal">
+      <outline text="Engadget 中文版 RSS Feed" title="Engadget 中文版 RSS Feed" type="rss" xmlUrl="http://chinese.engadget.com/rss.xml" htmlUrl="http://chinese.engadget.com/"/>
+      <outline text="Goal.com News - 繁體中文" title="Goal.com News - 繁體中文" type="rss" xmlUrl="http://www.goal.com/hk/feeds/news?fmt=rss" htmlUrl="http://www.goal.com/hk/feeds/news?fmt=rss&amp;id=0"/>
+      <outline text="Linux中国 - 我们的Linux中文社区" title="Linux中国 - 我们的Linux中文社区" type="rss" xmlUrl="https://linux.cn/rss.xml" htmlUrl="http://linux.cn/"/>
+      <outline text="LiveSino 中文版" title="LiveSino 中文版" type="rss" xmlUrl="http://livesino.net/feed" htmlUrl="http://livesino.net/"/>
+      <outline text="NBC News World News" title="NBC News World News" type="rss" xmlUrl="http://feeds.nbcnews.com/feeds/worldnews" htmlUrl="http://www.nbcnews.com/"/>
+      <outline text="New Yorker: Science &amp; Tech" title="New Yorker: Science &amp; Tech" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/tech.newyorker.com.xml" htmlUrl="http://www.newyorker.com/tech"/>
+      <outline text="PingWest中文网" title="PingWest中文网" type="rss" xmlUrl="http://www.pingwest.com/feed/" htmlUrl="http://www.pingwest.com/"/>
+      <outline text="Politics - The Huffington Post" title="Politics - The Huffington Post" type="rss" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/politics/index.xml" htmlUrl="http://www.huffingtonpost.com/politics/"/>
+      <outline text="TechCrunch 中国" title="TechCrunch 中国" type="rss" xmlUrl="http://techcrunch.cn/feed/" htmlUrl="http://techcrunch.cn/"/>
+      <outline text="Technology - The Huffington Post" title="Technology - The Huffington Post" type="rss" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/technology/index.xml" htmlUrl="http://www.huffingtonpost.com/technology/"/>
+      <outline text="The Huffington Post | The Full Feed" title="The Huffington Post | The Full Feed" type="rss" xmlUrl="http://www.huffingtonpost.com/feeds/index.xml" htmlUrl="http://www.huffingtonpost.com/feeds/www.huffingtonpost.com"/>
+      <outline text="The New York Times" title="The New York Times" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss"/>
+      <outline text="The New Yorker" title="The New Yorker" type="rss" xmlUrl="http://www.newyorker.com/services/rss/feeds/everything.xml" htmlUrl="http://www.newyorker.com/mrss/feeds/everything.xml"/>
+      <outline text="The New Yorker: Everything" title="The New Yorker: Everything" type="rss" xmlUrl="http://www.newyorker.com/feed/everything" htmlUrl="http://www.newyorker.com/"/>
+      <outline text="Ubuntu中文论坛" title="Ubuntu中文论坛" type="rss" xmlUrl="http://forum.ubuntu.org.cn/feed.php" htmlUrl="http://forum.ubuntu.org.cn/index.php"/>
+      <outline text="VICE中国｜全球青年文化之声：世界在下沉，我们在狂欢" title="VICE中国｜全球青年文化之声：世界在下沉，我们在狂欢" type="rss" xmlUrl="http://www.vice.cn/index/rss/" htmlUrl="http://www.vice.cn/"/>
+      <outline text="Washington Post: Breaking News, World, US, DC News &amp; Analysis" title="Washington Post: Breaking News, World, US, DC News &amp; Analysis" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world" htmlUrl="http://www.washingtonpost.com/?wprss=rss_homepage"/>
+      <outline text="中国 - 美国之音" title="中国 - 美国之音" type="rss" xmlUrl="http://www.voachinese.com/rss/?count=20&amp;zoneid=1757" htmlUrl="http://www.voachinese.com/archive/china/latest/1739/1757.html"/>
+      <outline text="中国一周" title="中国一周" type="rss" xmlUrl="http://www.rfa.org/mandarin/zhuanlan/zhongguoyizhou/RSS" htmlUrl="http://www.rfa.org/"/>
+      <outline text="中国国家地理" title="中国国家地理" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dili360.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/eHDXEt5cdV"/>
+      <outline text="中国数字时代 » 编辑推荐" title="中国数字时代 » 编辑推荐" type="rss" xmlUrl="http://feeds.feedburner.com/chinadigitaltimes/zKps" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=072c2039506f97cebfff7595e74a30ea"/>
+      <outline text="中国特色。NET" title="中国特色。NET" type="rss" xmlUrl="http://www.zhongguotese.net/feed" htmlUrl="http://www.zhongguotese.net/"/>
+      <outline text="中国禁闻 - 禁书网 » 中国禁闻" title="中国禁闻 - 禁书网 » 中国禁闻" type="rss" xmlUrl="http://feeds.feedburner.com/bannedbook/DEZI" htmlUrl="http://www.bannedbook.org/bnews"/>
+      <outline text="中国透视" title="中国透视" type="rss" xmlUrl="http://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/RSS" htmlUrl="http://www.rfa.org/"/>
+      <outline text="半岛便利店 - 知乎专栏" title="半岛便利店 - 知乎专栏" type="rss" xmlUrl="https://rss.lilydjwg.me/zhihuzhuanlan/bandao711" htmlUrl="https://zhuanlan.zhihu.com/api/columns/bandao711/posts?limit=20"/>
+      <outline text="参考消息：中国" title="参考消息：中国" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.cankaoxiaoxi.xml" htmlUrl="http://china.cankaoxiaoxi.com/"/>
+      <outline text="商业周刊中文版" title="商业周刊中文版" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/businessweek.weixin.xml" htmlUrl="http://www.iwgc.cn/list/178"/>
+      <outline text="商业频道 - RSS订阅 - 财富中文网" title="商业频道 - RSS订阅 - 财富中文网" type="rss" xmlUrl="http://www.fortunechina.com/rss/business.xml" htmlUrl="http://www.fortunechina.com/business/"/>
+      <outline text="安卓中国" title="安卓中国" type="rss" xmlUrl="http://www.anzhuo.cn/feed" htmlUrl="http://www.anzhuo.cn/"/>
+      <outline text="开源中国社区最新推荐博客" title="开源中国社区最新推荐博客" type="rss" xmlUrl="http://www.oschina.net/blog/rss" htmlUrl="http://www.oschina.net/?from=rss"/>
+      <outline text="开源中国社区最新新闻" title="开源中国社区最新新闻" type="rss" xmlUrl="http://www.oschina.net/news/rss" htmlUrl="http://www.oschina.net/?from=rss"/>
+      <outline text="新闻 - 美国之音" title="新闻 - 美国之音" type="rss" xmlUrl="http://www.voachinese.com/rss/?count=50&amp;zoneid=1739" htmlUrl="http://www.voachinese.com/archive/news/latest/1739/1739.html"/>
+      <outline text="日经中文网--日本经济新闻中文版" title="日经中文网--日本经济新闻中文版" type="rss" xmlUrl="http://cn.nikkei.com/rss.html" htmlUrl="http://cn.nikkei.com/"/>
+      <outline text="比特币中文网" title="比特币中文网" type="rss" xmlUrl="http://www.bitecoin.com/feed" htmlUrl="http://www.bitecoin.com/"/>
+      <outline text="澳大利亚人报中文网 | 国内外时事新闻 | 金融财经 | 教育 | 房产投资" title="澳大利亚人报中文网 | 国内外时事新闻 | 金融财经 | 教育 | 房产投资" type="rss" xmlUrl="https://cn.theaustralian.com.au/feed/" htmlUrl="https://cn.theaustralian.com.au/"/>
+      <outline text="看中国 - 全部文章" title="看中国 - 全部文章" type="rss" xmlUrl="http://www.kanzhongguo.com/rss/latest/" htmlUrl="http://www.secretchina.com/"/>
+      <outline text="纽约时报中文网 国际纵览" title="纽约时报中文网 国际纵览" type="rss" xmlUrl="http://cn.nytimes.com/rss/news.xml" htmlUrl="http://cn.nytimes.com/"/>
+      <outline text="网站分析在中国——从基础到前沿" title="网站分析在中国——从基础到前沿" type="rss" xmlUrl="http://www.chinawebanalytics.cn/feed/" htmlUrl="http://www.chinawebanalytics.cn/"/>
+      <outline text="美国之音" title="美国之音" type="rss" xmlUrl="http://www.voachinese.com/api/epiqq" htmlUrl="http://www.voachinese.com/"/>
+      <outline text="美国之音中文网" title="美国之音中文网" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCt5zpwa264A0B-gaYtv1IpA" htmlUrl="http://www.youtube.com/channel/UCt5zpwa264A0B-gaYtv1IpA/videos"/>
+      <outline text="路透: 中国财经" title="路透: 中国财经" type="rss" xmlUrl="http://cn.reuters.com/rssFeed/chinaNews" htmlUrl="http://cn.reuters.com/"/>
+      <outline text="路透中文网cn.reuters.com" title="路透中文网cn.reuters.com" type="rss" xmlUrl="http://blog.sina.com.cn/rss/reuterschina.xml" htmlUrl="http://blog.sina.com.cn/reuterschina"/>
+    </outline>
+   <outline text="deu" title="deu">
+      <outline text="A Daily German Sentence (Basic) - Antosch-and-Lin.com" title="A Daily German Sentence (Basic) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-sentence.php?level=1" htmlUrl="https://www.antosch-and-lin.com/german"/>
+      <outline text="A Daily German Word (Advanced) - Antosch-and-Lin.com" title="A Daily German Word (Advanced) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-word.php?level=3" htmlUrl="https://www.antosch-and-lin.com/german"/>
+      <outline text="A Daily German Word (Basic) - Antosch-and-Lin.com" title="A Daily German Word (Basic) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-word.php?level=1" htmlUrl="https://www.antosch-and-lin.com/german"/>
+      <outline text="A Daily German Word (Intermediate) - Antosch-and-Lin.com" title="A Daily German Word (Intermediate) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-word.php?level=2" htmlUrl="https://www.antosch-and-lin.com/german"/>
+      <outline text="Audiotrainer | Deutsch lernen | Deutsche Welle" title="Audiotrainer | Deutsch lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw.de/xml/DKpodcast_audiotrainer_de" htmlUrl="http://www.dw.de/german/?maca=de-DKpodcast_audiotrainer_de-5125-xml-mrss"/>
+      <outline text="Der satirische Wochenrückblick von Peter Zudeick im WDR 5-Radio zum Mitnehmen" title="Der satirische Wochenrückblick von Peter Zudeick im WDR 5-Radio zum Mitnehmen" type="rss" xmlUrl="http://podcast.wdr.de/radio/wochenrueck.xml" htmlUrl="http://www1.wdr.de/radio/podcasts/wdr5/satirischewochenrueckblick100.html"/>
+      <outline text="Deutsch lernen | Deutsche Welle" title="Deutsch lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw-world.de/rdf/DKfeed_dkmix_de" htmlUrl="http://www.dw.de/german/?maca=de-DKfeed_dkmix_de-2247-rdf"/>
+      <outline text="Deutsche im Alltag - Alltagsdeutsch | Deutsch Lernen | Deutsche Welle" title="Deutsche im Alltag - Alltagsdeutsch | Deutsch Lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw-world.de/xml/DKpodcast_alltagsdeutsch_de" htmlUrl="http://www.dw.de/german/?maca=de-DKpodcast_alltagsdeutsch_de-2283-xml-mrss"/>
+      <outline text="German Abendbrot" title="German Abendbrot" type="rss" xmlUrl="http://germanabendbrot.wordpress.com/feed/" htmlUrl="https://germanabendbrot.wordpress.com/"/>
+      <outline text="German is easy!" title="German is easy!" type="rss" xmlUrl="http://yourdailygerman.wordpress.com/feed/" htmlUrl="http://yourdailygerman.wordpress.com/"/>
+      <outline text="German Joys" title="German Joys" type="rss" xmlUrl="http://andrewhammel.typepad.com/german_joys/atom.xml" htmlUrl="http://andrewhammel.typepad.com/german_joys/"/>
+      <outline text="German Language Blog" title="German Language Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GermanBlog" htmlUrl="http://blogs.transparent.com/german"/>
+      <outline text="German Word of the Day" title="German Word of the Day" type="rss" xmlUrl="http://feeds.feedburner.com/GermanWordOfTheDay" htmlUrl="http://www.transparent.com/word-of-the-day/today/german.html"/>
+      <outline text="German word of the day website" title="German word of the day website" type="rss" xmlUrl="http://feeds.feedburner.com/DeutschesWortDesTages/GermanWordOfTheDay" htmlUrl="http://www.germaneveryday.com/"/>
+      <outline text="german-bash.org - Die neuesten Zitate" title="german-bash.org - Die neuesten Zitate" type="rss" xmlUrl="http://feeds2.feedburner.com/gbo-zitate" htmlUrl="http://german-bash.org/"/>
+      <outline text="Germanblogs" title="Germanblogs" type="rss" xmlUrl="http://woerter.germanblogs.de/feed" htmlUrl="http://germanblogs.de/"/>
+      <outline text="Get Germanized" title="Get Germanized" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCesZBmRS6IgZ3uuiB8RdX0A" htmlUrl="http://www.youtube.com/channel/UCesZBmRS6IgZ3uuiB8RdX0A"/>
+      <outline text="Langsam gesprochene Nachrichten | Deutsch lernen | Deutsche Welle" title="Langsam gesprochene Nachrichten | Deutsch lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw-world.de/xml/DKpodcast_lgn_de" htmlUrl="http://www.dw.de/dw/0,,8030,00.html?maca=de-DKpodcast_lgn_de-2288-xml-mrss"/>
+      <outline text="Learn German | GermanPod101.com" title="Learn German | GermanPod101.com" type="rss" xmlUrl="http://www.germanpod101.com/feed.xml" htmlUrl="http://www.germanpod101.com/"/>
+      <outline text="Lernen Heute" title="Lernen Heute" type="rss" xmlUrl="http://lernenheute.wordpress.com/feed/" htmlUrl="http://lernenheute.wordpress.com/"/>
+      <outline text="Slow German" title="Slow German" type="rss" xmlUrl="http://www.slowgerman.com/feed/" htmlUrl="http://slowgerman.com/"/>
+      <outline text="Spoonfuls of Germany" title="Spoonfuls of Germany" type="rss" xmlUrl="http://spoonfulsofgermany.com/feed/" htmlUrl="http://spoonfulsofgermany.com/"/>
+      <outline text="Sprachbar | Deutsch Lernen | Deutsche Welle" title="Sprachbar | Deutsch Lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw-world.de/xml/DKpodcast_sprachbar_de" htmlUrl="http://www.dw.de/dw/0,,9011,00.html?maca=de-DKpodcast_sprachbar_de-2294-xml-mrss"/>
+      <outline text="Top-Thema mit Vokabeln | Deutsch lernen | Deutsche Welle" title="Top-Thema mit Vokabeln | Deutsch lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw-world.de/xml/DKpodcast_topthemamitvokabeln_de" htmlUrl="http://www.dw.de/dw/0,,8031,00.html?maca=de-DKpodcast_topthemamitvokabeln_de-2296-xml-mrss"/>
+      <outline text="Wort der Woche | Deutsch Lernen | Deutsche Welle" title="Wort der Woche | Deutsch Lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw.de/xml/DKpodcast_wortderwoche_de" htmlUrl="http://www.dw.de/dw/0,,9031,00.html?maca=de-DKpodcast_wortderwoche_de-4271-xml-mrss"/>
+      <outline text="沪江德语:德语学习门户" title="沪江德语:德语学习门户" type="rss" xmlUrl="http://de.hujiang.com/new/rss/" htmlUrl="http://de.hujiang.com/"/>
+    </outline>
+   
+  </body>
 </opml>
