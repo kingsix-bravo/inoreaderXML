@@ -111,6 +111,7 @@
       <outline text="Wort der Woche | Deutsch Lernen | Deutsche Welle" title="Wort der Woche | Deutsch Lernen | Deutsche Welle" type="rss" xmlUrl="http://rss.dw.de/xml/DKpodcast_wortderwoche_de" htmlUrl="http://www.dw.de/dw/0,,9031,00.html?maca=de-DKpodcast_wortderwoche_de-4271-xml-mrss"/>
       <outline text="沪江德语:德语学习门户" title="沪江德语:德语学习门户" type="rss" xmlUrl="http://de.hujiang.com/new/rss/" htmlUrl="http://de.hujiang.com/"/>
     </outline>
+   <outline text="yts.am" title="yts.am" type="rss" xmlUrl="https://yts.am/rss" htmlUrl="https://yts.am/"/>
    
   </body>
 </opml>
