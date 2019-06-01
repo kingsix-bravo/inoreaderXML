@@ -1,3 +1,11 @@
-  <outline text="A Daily German Sentence (Basic) - Antosch-and-Lin.com" title="A Daily German Sentence (Basic) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-sentence.php?level=1" />
-  
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>taglich created by haoyangh mobile in Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="probation" title="probation">
+       <outline text="A Daily German Sentence (Basic) - Antosch-and-Lin.com" title="A Daily German Sentence (Basic) - Antosch-and-Lin.com" type="rss" xmlUrl="http://www.german-flashcards.com/rss-feed-sentence.php?level=1" htmlUrl="https://www.antosch-and-lin.com/german"/>
+    </outline>
+  </body>
+</opml>
