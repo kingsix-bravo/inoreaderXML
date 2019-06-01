@@ -9,7 +9,6 @@
     <outline text="Asian Military Review" title="Asian Military Review" type="rss" xmlUrl="http://www.asianmilitaryreview.com/feed/" htmlUrl="http://www.asianmilitaryreview.com/"/>
     <outline text="Asteroids - NASA / JPL" title="Asteroids - NASA / JPL" type="rss" xmlUrl="http://www.jpl.nasa.gov/multimedia/rss/asteroid.xml" htmlUrl="http://www.jpl.nasa.gov/asteroidwatch/index.cfm"/>
     <outline text="BBC News - Science &amp; Environment" title="BBC News - Science &amp; Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk" htmlUrl="http://www.bbc.co.uk/news/science_and_environment/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
-    <outline text="bbcchinese.com | 新闻主页" title="bbcchinese.com | 新闻主页" type="rss" xmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml" htmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml"/>
     <outline text="BuzzFeed  - Latest" title="BuzzFeed  - Latest" type="rss" xmlUrl="http://www.buzzfeed.com/index.xml" htmlUrl="http://www.buzzfeed.com/"/>
     <outline text="China | The Guardian" title="China | The Guardian" type="rss" xmlUrl="http://feeds.guardian.co.uk/theguardian/world/china/rss" htmlUrl="http://www.theguardian.com/world/china"/>
     <outline text="China on Huffington Post" title="China on Huffington Post" type="rss" xmlUrl="http://www.huffingtonpost.com/tag/china/feed" htmlUrl="http://www.huffingtonpost.com/tag/china"/>
@@ -37,7 +36,6 @@
     <outline text="JPL | Blog" title="JPL | Blog" type="rss" xmlUrl="http://www.jpl.nasa.gov/blog/feed/" htmlUrl="http://blogs.jpl.nasa.gov"/>
     <outline text="JustYY.com 小赖子的英国生活和资讯。" title="JustYY.com 小赖子的英国生活和资讯。" type="rss" xmlUrl="https://justyy.com/feed" htmlUrl="http://justyy.com/"/>
     <outline text="Kirkus Reviews" title="Kirkus Reviews" type="rss" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" htmlUrl="https://www.kirkusreviews.com/"/>
-    <outline text="Latest articles | Smithsonian" title="Latest articles | Smithsonian" type="rss" xmlUrl="http://www.smithsonianmag.com/rss/latest_articles/" htmlUrl="http://www.smithsonianmag.com/rss/latest_articles/"/>
     <outline text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" type="rss" xmlUrl="http://www.sciencedaily.com/newsfeed.xml" htmlUrl="http://www.sciencedaily.com/"/>
     <outline text="Lingvist blog" title="Lingvist blog" type="rss" xmlUrl="https://lingvist.com/blog/feed.xml" htmlUrl="https://lingvist.com/"/>
     <outline text="Linux中国开源社区" title="Linux中国开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml" htmlUrl="http://linux.cn/"/>
