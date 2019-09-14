@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Huang Haoyang from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="all" title="all">  
+        <outline text="yts.am" title="yts.am" type="rss" xmlUrl="https://yts.am/rss" htmlUrl="https://yts.am/"/>
+        <outline text="reuters news" title="reuters news" type="rss" xmlUrl="https://www.reuters.com/tools/rss" htmlUrl="https://www.reuters.com/tools/rss"/>
+
+        <outline text="Der satirische Wochenrückblick von Peter Zudeick im WDR 5-Radio zum Mitnehmen" title="Der satirische Wochenrückblick von Peter Zudeick im WDR 5-Radio zum Mitnehmen" type="rss" xmlUrl="http://podcast.wdr.de/radio/wochenrueck.xml" htmlUrl="http://www1.wdr.de/radio/podcasts/wdr5/satirischewochenrueckblick100.html"/>
+        <outline text="google news" title="google news" type="rss" xmlUrl="https://news.google.com/news/rss/headlines/section/topic/WORLD?ned=us&hl=en" htmlUrl="https://news.google.com/news/rss/headlines/section/topic/WORLD?ned=us&hl=en"/>
+        <outline text="reddit" title="reddit" type="rss" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/.rss"/>
+        <outline text="defence" title="defence" type="rss" xmlUrl="http://defence-blog.com/feed" htmlUrl="http://defence-blog.com/feed"/>
+        <outline text="e-international" title="e-international" type="rss" xmlUrl="http://www.e-ir.info/category/blogs/feed" htmlUrl="http://www.e-ir.info/category/blogs/feed"/>
+        <outline text="g-issue" title="global-issue" type="rss" xmlUrl="http://www.globalissues.org/news/feed" htmlUrl="http://www.globalissues.org/news/feed"/>
+        <outline text="independent" title="independent" type="rss" xmlUrl="http://www.independent.co.uk/news/world/rss" htmlUrl="http://www.independent.co.uk/news/world/rss"/>
+        <outline text="toronto star" title="toronto star" type="rss" xmlUrl="https://www.thestar.com/feeds.articles.news.world.rss" htmlUrl="https://www.thestar.com/feeds.articles.news.world.rss"/>
+    
+    
+    
+    
+    
+        <outline text="csmonitor" title="csmonitor" type="rss" xmlUrl="http://rss.csmonitor.com/feeds/world" htmlUrl="http://rss.csmonitor.com/feeds/world"/>
+    
+    
+    
+    </outline>   
+  </body>
+</opml>
